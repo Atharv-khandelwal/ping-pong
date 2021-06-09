@@ -1,0 +1,11 @@
+.heading{
+    position: fixed;
+    margin-top: 0px;
+    top: 0;
+    width: 100%;
+    display: inline;
+    
+}
+canvas{
+    margin: top 50px;;
+}
